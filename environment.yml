@@ -1,0 +1,10 @@
+name: interp-autoreg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pydub
+  - scipy
