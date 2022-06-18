@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - pydub
   - scipy
+  - tqdm
