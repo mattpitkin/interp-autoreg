@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.9
   - jupyterlab
+  - jupyter_contrib_nbextensions
   - matplotlib
   - numpy
   - pydub
