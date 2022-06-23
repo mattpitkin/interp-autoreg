@@ -7,6 +7,6 @@ dependencies:
   - jupyter_contrib_nbextensions
   - matplotlib
   - numpy
-  - pydub
+  - scikit-learn
   - scipy
   - tqdm
