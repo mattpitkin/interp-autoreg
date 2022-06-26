@@ -3,10 +3,17 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - jupyterlab
-  - jupyter_contrib_nbextensions
-  - matplotlib
-  - numpy
-  - scikit-learn
-  - scipy
-  - tqdm
+  - jags
+  - pip:
+    - jax
+    - jupyterlab
+    - jupyter_contrib_nbextensions
+    - matplotlib
+    - numba
+    - numba-scipy
+    - numpy
+    - pyjags
+    - pymc
+    - scikit-learn
+    - scipy
+    - tqdm
